@@ -2,7 +2,7 @@
 
 I'm a passionate software engineer and blogger at [Code Specialist](https://code-specialist.com). You may also find our videos on [YouTube](https://www.youtube.com/channel/UCjdmChf65sGfOqWoygzBTyQ). I'm always happy to extend my network, feel free to send me a request on [LinkedIn](https://www.linkedin.com/in/yannic-schroeer/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yannicschroeer&count_private=true&theme=dark)
+![GitHub Stats](https://raw.githubusercontent.com/yannicschroeer/github-stats/master/generated/overview.svg) ![GitHub Languages](https://raw.githubusercontent.com/yannicschroeer/github-stats/master/generated/languages.svg)
 
 - 🔭 I’m currently working on 
   - [Tebuto](https://github.com/Terminbuchungstool/): A microservice based web application to easily book and manage appointments
