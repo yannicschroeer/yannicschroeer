@@ -8,7 +8,7 @@ I'm a passionate software engineer and blogger at [Code Specialist](https://code
   - [Tebuto](https://github.com/Terminbuchungstool/): A microservice based web application to easily book and manage appointments
   - [FastAPI Keycloak](https://fastapi-keycloak.code-specialist.com/): An integration of Keycloak into FastAPI
   
-- 🌱 I’m currently learning Kubernetes and AWS
+- 🌱 I’m currently learning about Kubernetes and AWS
 
 - 💬 Ask me about anything related to cloud technologies, python or architecture. I'm happy to answer or research it if I'm clueless.
 
