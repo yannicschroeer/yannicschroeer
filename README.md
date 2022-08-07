@@ -14,3 +14,8 @@ I'm a passionate software engineer and blogger at [Code Specialist](https://code
 
 - 📫 How to reach me: Send me an email to [yannic@schroeer.tech](mailto:yannic@schroeer.tech) or connect with me on [LinkedIn](https://www.linkedin.com/in/yannic-schroeer/)
 
+- 🗂 My past work
+  
+  - [https://richtungswechsler.de](https://richtungswechsler.de) website for a psychologist based on NextJS. 100% Lighthouse stats, great SEO, 0 cookies.
+  - [https://code-specialist.com](https://code-specialist.com) computer science blog based on NextJS. 100% Lighthouse stats, great SEO, 0 cookies.
+  - [https://gecko-calw.de/](https://gecko-calw.de/) website for a tropical bar based.
