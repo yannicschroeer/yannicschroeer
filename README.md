@@ -6,7 +6,7 @@ I'm a passionate software engineer and blogger at [Code Specialist](https://code
 
 - 🔭 I’m currently working on 
   - [Tebuto](https://github.com/Terminbuchungstool/): A microservice based web application to easily book and manage appointments
-  - [FastAPI Keycloak](https://fastapi-keycloak.code-specialist.com/): An integration of Keycloak into FastAPI
+  - [ThinPress](https://github.com/AdWert-IT/thinpress): A library to integrate WordPress with Next.JS' incremental static regeneration as a headless CMS with fully typed hooks.
   
 - 🌱 I’m currently learning about Kubernetes and AWS
 
@@ -15,7 +15,6 @@ I'm a passionate software engineer and blogger at [Code Specialist](https://code
 - 📫 How to reach me: Send me an email to [yannic@schroeer.tech](mailto:yannic@schroeer.tech) or connect with me on [LinkedIn](https://www.linkedin.com/in/yannic-schroeer/)
 
 - 🗂 My past work
-  
   - [https://richtungswechsler.de](https://richtungswechsler.de): website for a psychologist based on NextJS. 100% Lighthouse stats, great SEO, 0 cookies.
   - [https://code-specialist.com](https://code-specialist.com): computer science blog based on NextJS. 100% Lighthouse stats, great SEO, 0 cookies.
   - [https://gecko-calw.de/](https://gecko-calw.de/): website for a tropical bar. WordPress based.
