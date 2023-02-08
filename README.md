@@ -6,7 +6,7 @@ I'm a passionate software engineer and blogger at [Code Specialist](https://code
 
 - 🔭 I’m currently working on 
   - [Tebuto](https://github.com/Terminbuchungstool/): A microservice based web application to easily book and manage appointments
-  - [ThinPress](https://github.com/AdWert-IT/thinpress): A library to integrate WordPress with Next.JS' incremental static regeneration as a headless CMS with fully typed hooks.
+  - [ThinPress](https://github.com/AdWert-IT/thinpress): A Node.js library to integrate WordPress with Next.JS' incremental static regeneration as a headless CMS with fully typed hooks.
   
 - 🌱 I’m currently learning about Kubernetes and AWS
 
