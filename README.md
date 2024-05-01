@@ -14,7 +14,7 @@ I'm a passionate senior software engineer and blogger at [Code Specialist](https
 - 📫 How to reach me: Send me an email to [yannic@schroeer.tech](mailto:yannic@schroeer.tech) or connect with me on [LinkedIn](https://www.linkedin.com/in/yannic-schroeer/)
 
 - 🗂 My past work
-  - [https://www.npmjs.com/package/code-specialist-strapi-client]([https://github.com/code-specialist/strapi-client](https://www.npmjs.com/package/code-specialist-strapi-client)) A library to consume Strapi as a backend without headaches because of their weird design decisions
+  - [https://www.npmjs.com/package/code-specialist-strapi-client](https://www.npmjs.com/package/code-specialist-strapi-client) A library to consume Strapi as a backend without headaches because of their weird design decisions
   - [https://github.com/marketplace/actions/gitops-update-image-tag](https://github.com/marketplace/actions/gitops-update-image-tag) GitHub action to update image tags in infrastructure as code setups that utilize GitOps
   - [GitHub Action: PyPI Poetry Publish](https://github.com/marketplace/actions/pypi-poetry-publish) GitHub action to release packages automatically with Poetry and GitHub Releases
   - [https://richtungswechsler.de](https://richtungswechsler.de): website for a psychologist based on NextJS. 100% Lighthouse stats, great SEO, 0 cookies.
